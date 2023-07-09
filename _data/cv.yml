@@ -25,10 +25,17 @@
   type: time_table
   contents:
     - title: Research Intern
+      institution: IBM Research
+      year: Summer 2023
+      description:
+        - Bias in hate speech classification 
+        
+    - title: Research Intern
       institution: Snap Inc
       year: Summer 2022
       description:
         - Qualitative research on fairness of Snap camera products
+        
     - title: Research Intern
       institution: Adobe Inc.
       year: Summer 2020
