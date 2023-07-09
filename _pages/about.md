@@ -12,7 +12,9 @@ news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-I am a 3rd year Computer Science PhD candidate at [Georgia Institute of Technology](https://www.cc.gatech.edu/) in the [Interactive Computing](https://www.ic.gatech.edu/Interactive) program. I am broadly interested in research at the intersection of race and technology, focusing largely on fairness and accountability in natural language processing (NLP), social computing, and human computer interaction. I am a Ford Predoctoral Fellow and a GEM Fellow.
+
+
+I'm a rising 4th year PhD student at the [Georgia Institute of Technology](https://www.cc.gatech.edu/) in the Interactive Computing Interactive Computing](https://www.ic.gatech.edu/Interactive) program. I'm advised by [Diyi Yang PhD] (https://cs.stanford.edu/~diyiy/) and [Neha Kumar PhD] (https://www.nehakumar.org/). My research primarily focuses on biases towards underrepresented, indigenous, and colonized dialects and languages in natural language processing (NLP). Beyond that, I also study a wide span of research problems related to marginalized groups and their experiences with social media and AI systems, spanning NLP, Human Computer Interaction and Social Computing. I am a Ford Predoctoral Fellow and a GEM Fellow.
 
 Currently I am an intern at [IBM Research](https://research.ibm.com/) on the [Tech for Justice Team](https://research.ibm.com/topics/responsible-technology). Previously I was a research intern on the algorithm fairness team at [Snap Inc.](https://snap.com/en-US) and an intern at [Adobe Research](https://research.adobe.com/). I earned a Bachelor's in Computer Science at the University of California Berkeley, go Bears!
 
