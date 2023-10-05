@@ -18,9 +18,6 @@ I'm a 4th year PhD student at the [Georgia Institute of Technology](https://www.
 
 This past summer I was an intern at [IBM Research](https://research.ibm.com/) on the [Tech for Justice Team](https://research.ibm.com/topics/responsible-technology). Previously I was a research intern on the algorithm fairness team at [Snap Inc.](https://snap.com/en-US) and an intern at [Adobe Research](https://research.adobe.com/). I earned a Bachelor's in Computer Science at the University of California Berkeley, go Bears!
 
-Annoucements:
-
-Catch the presentation on my newest publication at the ACM Conference on Computer Supported Cooperative Work (CSCW) on Monday 11am at Minneapolis MN: “Honestly, I think TikTok has a Vendetta Against Black Creators”: Understanding Black Content Creator Experiences on TikTok
 
 
 <!-- Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
