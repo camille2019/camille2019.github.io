@@ -4,5 +4,5 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 4
-cv_pdf: Harris_CV_10_2023.pdf
+cv_pdf: Camille_Harris_CV_2023 (6).pdf
 ---
