@@ -61,16 +61,18 @@
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: 2023
+      items: Regocnition for Diversity and Inclusion - ACM Conference on Computer Supported Cooperative Work (CSCW) 2023
     - year: 2021
       items:
-        - Best Student Paper - Equity and Access in Algorithms, Mechanisms, and Optimization (EAAMO) 2021
+        - Best Student Paper - ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization (EAAMO) 2021
     - year: 2020
       items:
         - Ford Predoctoral Fellowship Awarded
         - GEM Fellowship Awarded
     - year: 2018
       items:
-        - UC Berkeley EECS Eugene L. Lawler Prize
+        - UC Berkeley EECS Dpartment- Eugene L. Lawler Prize
 
 - title: Academic Interests
   type: nested_list
