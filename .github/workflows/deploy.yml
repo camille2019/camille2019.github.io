@@ -5,10 +5,16 @@ on:
     branches:
       - master
       - main
+      - fall_2025
   pull_request:
     branches:
       - master
       - main
+      - fall_2025
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   deploy:
